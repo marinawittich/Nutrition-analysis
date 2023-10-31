@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Nutrition-analysis/static/css/main.7e3290a8.css",
+    "main.js": "/Nutrition-analysis/static/js/main.9bad2795.js",
+    "static/js/787.b34c94fa.chunk.js": "/Nutrition-analysis/static/js/787.b34c94fa.chunk.js",
+    "static/media/plate.png": "/Nutrition-analysis/static/media/plate.e7579b6659170a337368.png",
+    "index.html": "/Nutrition-analysis/index.html",
+    "main.7e3290a8.css.map": "/Nutrition-analysis/static/css/main.7e3290a8.css.map",
+    "main.9bad2795.js.map": "/Nutrition-analysis/static/js/main.9bad2795.js.map",
+    "787.b34c94fa.chunk.js.map": "/Nutrition-analysis/static/js/787.b34c94fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e3290a8.css",
+    "static/js/main.9bad2795.js"
+  ]
+}
